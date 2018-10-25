@@ -1,6 +1,6 @@
 +++
 title = "LaTeX Workshop"
-date = 2018-10-25T10:30:00  # Schedule page publish date.
+date = 2018-10-25
 draft = false
 
 # Talk start and end times.

@@ -1,8 +1,8 @@
 +++
 title = "Links"
 
-date = 2018-10-25T14:06:30
-lastmod = 2018-10-25T14:06:30
+date = 2018-10-25
+lastmod = 2018-10-25
 
 draft = false
 toc = true

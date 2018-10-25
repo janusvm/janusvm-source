@@ -3,7 +3,7 @@
 # This widget displays recent posts from `content/post/`.
 widget = "posts"
 active = true
-date = 2016-04-20T00:00:00
+date = 2018-10-25
 
 title = "Recent Posts"
 subtitle = ""
@@ -26,4 +26,3 @@ count = 3
 #   2 = Stream
 list_format = 1
 +++
-

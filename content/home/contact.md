@@ -2,7 +2,6 @@
 # Contact widget.
 widget = "contact"
 active = true
-date = 2016-04-20T00:00:00
 
 title = "Contact"
 subtitle = ""
@@ -19,4 +18,3 @@ autolink = true
 #   2: formspree.io
 email_form = 2
 +++
-

@@ -1,6 +1,6 @@
 +++
 title = "Non-Standard Evaluation and Metaprogramming in R"
-date = 2018-10-24T21:13:42
+date = 2018-10-25
 draft = false
 
 # Talk start and end times.

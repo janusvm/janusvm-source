@@ -1,6 +1,6 @@
 +++
 title = "Git Workshop"
-date = 2018-10-25T09:35:00  # Schedule page publish date.
+date = 2018-10-25
 draft = false
 
 # Talk start and end times.
