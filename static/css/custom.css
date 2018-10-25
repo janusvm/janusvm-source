@@ -1,0 +1,15 @@
+/* custom.css ------------------------------------------------------------------
+ * Customizations to the theme that are not directly available through TOML file
+ * configurations.
+ */
+
+
+/* Increase font size of code blocks */
+.hljs {
+  font-size: 12pt;
+}
+
+/* Adjust search bar posiion */
+#search-box {
+    margin-top: 0.5rem;
+}
