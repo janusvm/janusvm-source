@@ -14,7 +14,7 @@ copyright = "&copy; 2018"
 
 theme = "hugo-academic"
 enableEmoji = true
-footnotereturnlinkcontents = "<sup>^</sup>"
+footnotereturnlinkcontents = "↩"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
 paginate = 10
