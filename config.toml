@@ -49,7 +49,7 @@ enableGitInfo = false
 
 # Permalink format
 [permalinks]
-    post = "/:year/:month/:day/:slug/"
+    post = "/:year/:month/:slug/"
 
 
 [params]
